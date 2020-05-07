@@ -1,6 +1,6 @@
 ---
 Title: GitHub Pages
-nav_order: 3
+nav_order: 4
 has_children: True
 ---
 
@@ -15,4 +15,4 @@ To learn more about GitHub Pages, see the video below.
 
 ## Building Your Website Locally
 
-To accelerate the development of your GitHub Pages website, it is recommended to install the dependencies necessary to build the site locally (on your machine) and not rely on GitHub to build the website for you during the prototyping phase as it can be a lengthy process. We have included a guide on how to do this [at this link](building_locally/building_locally.md)
+To accelerate the development of your GitHub Pages website, it is recommended to install the dependencies necessary to build the site locally (on your machine) and not rely on GitHub to build the website for you during the prototyping phase as it can be a lengthy process. We have included a guide on how to do this [at this link](building_locally/building_locally.md).

@@ -1,9 +1,13 @@
 remote_theme: pmarsceill/just-the-docs
 
 # Auxiliary links for the upper right navigation.
-# aux_links:
-#   "External link described in `/docs/_config.yml`. Use for GitHub link":
-#     - "//github.com"
+aux_links:
+  "Campbell Muscle Lab":
+  - "https://www.campbellmusclelab.org"
+  "Lab GitHub":
+  - "https://campbell-muscle-lab.github.io"
+  "GitHub How Tos Repo":
+  - "https://github.com/Campbell-Muscle-Lab/howtos_GitHub"
 
 # Not a big fan of dark mode. I think the light looks better.
 # color_scheme: "dark"

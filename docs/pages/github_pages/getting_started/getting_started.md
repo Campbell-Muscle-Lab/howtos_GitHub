@@ -39,11 +39,4 @@ Before GitHub will build your Pages site for you, you will need to enable it fro
 
 ## Building Your Documentation Site Further
 
-Now that the groundwork has been laid for your GitHub Pages website, it's time to build out your website. There are a few conventions that we use that we'll spell out below.
-
-1. All pages of your website go in the pages folder.
-    1. This is a rather simple rule to follow, but important nonetheless. All pages that you create for your website need to go in the folder located at `docs/pages`.
-2. Each new page goes in a new folder.
-    1. This convention is pretty self explanatory, but every new page is placed in a new folder. This helps with organizing images and the structural layout of your website.
-3. Nest pages and folders that go together.
-    1. To keep things organized both on your website and in your `docs` folder, it helps to nest pages that are related. For example, look to the left of this page at the navigation bar. There are multiple topics written about GitHub Pages. To organize this, we have grouped these concepts together. You can see how we've organized this page in this GitHub repository located [at this link](https://github.com/Campbell-Muscle-Lab/howtos_GitHub/tree/master/docs/pages/github_pages).
+Now that the groundwork has been laid for your GitHub Pages website, it's time to build out your website. There are a few conventions and best practices that we use that you can read about [at this page](../best_practices/best_practices.md).

@@ -22,11 +22,7 @@ To begin building out your documentation website, you will need to set up the in
 
 Much of the work has been done for you in setting up the GitHub Pages site via a template that can be downloaded as a zip file [at this link](template/github_pages_template.zip). Download this template and place the `docs` folder in your repository.
 
-This template lays most of the groundwork necessary for the GitHub pages repository. To 
-
-
-
- And in fact, can be committed and built by GitHub right out of the box. But first, you must enable GitHub to build GitHub Pages websites for you from within the repository.
+This template lays most of the groundwork necessary for the GitHub pages repository and in fact, can be committed and built by GitHub right out of the box. But first, you must enable GitHub to build GitHub Pages websites for you from within the repository.
 
 ### Enabling GitHub Pages For Your Repository
 

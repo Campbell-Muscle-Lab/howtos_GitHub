@@ -28,6 +28,5 @@ You can then
 
 Click on the screenshot below for a video demo that should help with your first moves.
 
-[![Video screenshot][1]][2]
-[1]:  repo_video_screenshot.png
-[2]:  https://drive.google.com/file/d/1twSQsfhpSH-Smuw69CDwoMWAVyKbIUW5/view?usp=sharing
+<a href="https://drive.google.com/file/d/1twSQsfhpSH-Smuw69CDwoMWAVyKbIUW5/view?usp=sharing">
+![Video screenshot](repo_video_screenshot.png)</a>

@@ -3,13 +3,13 @@ remote_theme: pmarsceill/just-the-docs
 # Auxiliary links for the upper right navigation.
 aux_links:
   "Campbell Muscle Lab":
-  - "https://www.campbellmusclelab.org"
+  - "http://www.campbellmusclelab.org"
   "Lab GitHub":
-  - "https://campbell-muscle-lab.github.io"
+  - "http://campbell-muscle-lab.github.io"
   "GitHub How Tos Repo":
-  - "https://github.com/Campbell-Muscle-Lab/howtos_GitHub"
+  - "http://github.com/Campbell-Muscle-Lab/howtos_GitHub"
 
-# Not a big fan of dark mode. I think the light looks better.
+  # Not a big fan of dark mode. I think the light looks better.
 # color_scheme: "dark"
 
 # You can display an image instead of the site's title like this.

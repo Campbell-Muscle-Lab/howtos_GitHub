@@ -22,6 +22,8 @@ This page discusses the conventions and best practices that we use in the Campbe
     + This convention is pretty self explanatory, but every new page is placed in a new folder. This helps with organizing images and the structural layout of your website.
 3. Nest pages and folders that go together.
     + To keep things organized both on your website and in your `docs` folder, it helps to nest pages that are related. For example, look to the left of this page at the navigation bar. There are multiple topics written about GitHub Pages. To organize this, we have grouped these concepts together. You can see how we've organized the pages in this GitHub repository by visiting [this link](https://github.com/Campbell-Muscle-Lab/howtos_GitHub/tree/master/docs/pages/github_pages).
+4. Include any inkscape source files for your page in a subdirectory of that page's folder titled, `SVG_files`.
+    + This allows us to keep the editable file format of the inkscape image that you upload so that if we ever need to change it, it will be simpler than redoing the entire image.
 
 ## Structure of Individual Pages
 

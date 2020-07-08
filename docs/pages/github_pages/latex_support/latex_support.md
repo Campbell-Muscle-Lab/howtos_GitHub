@@ -51,7 +51,7 @@ $$ x_{1,2} = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 will produce:
 
-![Latex equation](equations.png)
+![Latex equation](equations.PNG)
 
 ## Tips
 

@@ -22,11 +22,39 @@ To get started using GitHub in the Campbell lab
 + [email Ken](mailto:k.s.campbell@uky.edu) and let him know the username
   + Ken will add you to the lab's organization on GitHub and let you know when this has been done
 
-You can then
-+ start your own GitHub repo
-+ clone an existing project
+## Install the desktop client
 
-Click on the screenshot below for a video demo that should help with your first moves.
+The desktop client allows us to do everything we need by pointing and clicking. This is much easier than using Git from the command line.
 
-<a href="https://drive.google.com/file/d/1twSQsfhpSH-Smuw69CDwoMWAVyKbIUW5/view?usp=sharing">
-![Video screenshot](repo_video_screenshot.png)</a>
+To install the client
++ Go to [desktop client](https://desktop.github.com/)
++ Follow the instructions
+
+## Terminology
+
+### Repository
+
+In Git, a repository (repo) is a set of files that are grouped together for a purpose. The repository might be source code for a big software project, or a collection of files (imagees, Word documents, etc.) associated with a manuscript. The repository is version controlled so you can track changes to each file and revert back to previous stages if you need to. You can also add and delete files at any time.
+
+### Commit
+
+When you commit a repo, you store the current version of the file structure on your local computer. You can revert back to that if you need to.
+
+### Push
+
+When you push a repo, you send your commits to a central system where it can be accessed by others.
+
+### Pull
+
+When you pull a repo, you download the latest version of the repository from the central system.
+
+
+## Example
+
+This video shows how to:
++ create a new repository
++ commit files to the repository
++ push files to GitHub
++ pull files from GitHub
+
+{% include yuja_demo_video.html}

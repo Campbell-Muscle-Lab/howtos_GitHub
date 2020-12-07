@@ -57,4 +57,4 @@ This video shows how to:
 + push files to GitHub
 + pull files from GitHub
 
-{% include yuja_demo_video.html}
+{% include yuja_demo_video.html %}

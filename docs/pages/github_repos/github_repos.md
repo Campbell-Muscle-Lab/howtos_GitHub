@@ -57,4 +57,6 @@ This video shows how to:
 + push files to GitHub
 + pull files from GitHub
 
-{% include yuja_demo_video.html %}
+### Demonstration video
+
+[![demo_video_image](repo_video_screenshot_2.png)](https://uky.yuja.com/V/Video?v=2311797&node=8334984&a=741343416&autoplay=1)

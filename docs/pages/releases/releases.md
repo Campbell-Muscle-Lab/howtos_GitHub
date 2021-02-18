@@ -5,9 +5,9 @@ nav_order: 5
 
 # GitHub Releases
 
-This document discusses what GitHub releases are, what they're useful for, and how they're made. 
+This document discusses what GitHub releases are, what they're useful for, and how they're made.
 
-Much of this information was taken from [this link](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository).
+Much of this information was taken from [this link](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository). For information on packaging Python projects, visit [this link](https://packaging.python.org/tutorials/packaging-projects/).
 
 ## What are GitHub Releases?
 
@@ -19,9 +19,9 @@ Additionally, you can include binary files with your release so that the users o
 
 Since GitHub releases snapshots the code base at a certain commit, I believe the best time to create releases is:
 
-+ Any time you use a model in a publication. 
++ Any time you use a model in a publication.
     + You can include the built binary along with all of the instruction files you need to reproduce the results. This leads to **highly** reproducible scientific computing, something that I believe computation has an advantage on compared to wet lab experiments that can be subject to forces outside of your control.
-+ Any time you would like to provide a collaborator a version of the model. 
++ Any time you would like to provide a collaborator a version of the model.
     + If a collaborator - especially one that is not Git-savvy - wishes to use one of the lab's numerical models, then providing a release will ensure that we know exactly what version of the code the collaborator is working with. This promotes consistency of results and decreases the likelihood of issues with unknowingly using different versions of the models between collaborators.
 
 ## How do I create a release?

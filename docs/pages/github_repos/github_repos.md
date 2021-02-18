@@ -14,7 +14,7 @@ has_children: True
 
 ## Getting started
 
-Git and GitHub can be quite complicated at first although many [help pages](#additional_resources) are available.
+Git and GitHub can be quite complicated at first although many [help pages](#additional-resources) are available.
 
 To get started using GitHub in the Campbell lab
 + sign up for a GitHub user account

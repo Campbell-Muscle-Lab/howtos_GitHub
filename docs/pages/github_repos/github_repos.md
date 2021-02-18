@@ -14,7 +14,7 @@ has_children: True
 
 ## Getting started
 
-Git and GitHub can be quite complicated at first although many [help pages](#additional_resources) are available. 
+Git and GitHub can be quite complicated at first although many [help pages](#additional_resources) are available.
 
 To get started using GitHub in the Campbell lab
 + sign up for a GitHub user account
@@ -61,6 +61,6 @@ This video shows how to:
 
 [![demo_video_image](repo_video_screenshot_2.png)](https://uky.yuja.com/V/Video?v=2311797&node=8334984&a=741343416&autoplay=1)
 
-###[Additional Resources](#additional-resources)
+### Additional Resources
 + [GitHub Docs](https://help.github.com/en/github/getting-started-with-github)
 + [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)

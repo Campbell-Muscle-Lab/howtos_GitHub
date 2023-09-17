@@ -33,6 +33,7 @@ This installs Git along with the 'Git Bash' shell that allows us to build the we
 ### Installing The Ruby Language
 
 To install the Ruby programming language, visit [this site](https://rubyinstaller.org/downloads/) to download the Ruby installer. There are many options on which installer to download but they keep their updated recommended installer to the right of the installer links under the "Which Version to Download?" section.
++ Note, As of 9/17/2023, Ken could not get this to work with the latest Ruby. It did work with the 2.7 version.
 
 Once the installer has downloaded, run it and follow the prompts. On the last step of the installation wizard, be sure to run the `ridk install` step. This is important for installing the Ruby packages we need.
 

@@ -44,7 +44,7 @@ MathJax.Hub.Config({
 You can now insert LaTeX-like equations in your Markdown files. For instance, the following code:
 
 ````
-There are two solutions to the quadratic equation $a x^2 + b x + c = 0$:
+There are two solutions to the quadratic equation $$a x^2 + b x + c = 0$$:
 
 $$ x_{1,2} = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 ````
